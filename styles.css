@@ -13,7 +13,7 @@ body {
   background: url(./images/bg-header-desktop.png);
   background-repeat: no-repeat;
   background-position: top;
-  background-size: cover;
+  background-size: contain;
   font-family: "Bai Jamjuree", sans-serif;
 }
 h1 {
